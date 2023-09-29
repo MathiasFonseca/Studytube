@@ -2,9 +2,9 @@
 
 | Time              | Monday           | Tuesday          | Wednesday         | Thursday          | Friday            |
 |-------------------|------------------|------------------|-------------------|-------------------|-------------------|
-| 09:00 - 12:00|Make weekplan in github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|Make Studytube in powerpages
+| 09:00 - 12:00|Make weekplan in github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|Try to make pages in powerpages
 | 12:00 - 12:30| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
-| 12:30 - 14:00|make notes|make notes|make notes|make notes|Make Studytube in powerpages|
+| 12:30 - 14:00|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make Studytube in Github done|
 
 # Monday
 
