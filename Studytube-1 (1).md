@@ -24,8 +24,7 @@ Today, I dedicated time to create a weekly plan, opting to use GitHub as my plat
 
 <img width="1087" alt="Skærmbillede 2023-09-29 kl  15 31 15" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/8d5521a3-ae00-438f-b018-a67f87170394">
 
-  
-![certificate and courses](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ea8430f9-f6ab-4603-8c7c-ba48bdb8f235)
+ <img width="630" alt="Skærmbillede 2023-09-29 kl  15 33 46" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/991fdec1-489b-4ca6-80d5-a39f6f045c25">
 
 </details>
 
