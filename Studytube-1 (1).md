@@ -39,9 +39,15 @@ Today, I dedicated time to create a weekly plan, opting to use GitHub as my plat
 <details>
 <summary> Describtion</summary>
 <br>
+
+Today marked the inaugural day of the course, where I delved into the subject of "Introduction to Career Skills in Software Development." This session was expertly presented by Annyce Davis.(There is a picture of the her in the dropdown menu)
+
+The course encompassed fundamental concepts of the software development profession, including an exploration of various roles, programming languages, and practical coding exercises. To cap off the course, I completed an examination, the details of which can be found in the picture dropdown. Additionally, there will be code snippets from the exercises. While I found the course somewhat straightforward, I believe it was still beneficial in reinvigorating my coding skills.
+![image](https://github.com/MathiasFonseca/Studytube/assets/92019457/c62d9dd3-5557-4d33-9ee5-a60a721fd063)
+
 Today was the first day of the course-learning and the topic was: Introduction to Career Skills in Software Development and was presented by Annyce Davis.
 
-![image](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f5277c8d-ab7a-4c09-a5d2-88c8f98f7ee3)
+
 
 ![1 st course instructor](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/c5127bca-a35c-46b3-9047-21f56d842236)
 
