@@ -11,8 +11,7 @@
 <details>
 <summary> Describtion</summary>
 <br>
-Today, I dedicated time to create a weekly plan, opting to use GitHub as my platform of choice. I plan to try to integrate it with Powerpages by this Friday. Additionally, I conducted research to identify relevant LinkedIn certificates for the current semester. Ultimately, I discovered a certification program titled "Career Essentials in Software Development by Microsoft and LinkedIn" (There is a link in the Reference section).![image](https://github.com/MathiasFonseca/Studytube/assets/92019457/b32a17d4-44e6-48b6-95db-5962319d1fc4)
- (link in the Reference dropdown). The certificate consists of three different courses (see picture in the dropdown menu)
+Today, I dedicated time to create a weekly plan, opting to use GitHub as my platform of choice. I plan to try to integrate it with Powerpages by this Friday. Additionally, I conducted research to identify relevant LinkedIn certificates for the current semester. Ultimately, I discovered a certification program titled "Career Essentials in Software Development by Microsoft and LinkedIn" (There is a link in the Reference section). The certificate consists of three different courses. 1. Introduction to Career Skills in Software Development 2. Programming Foundations: Fundamentals 3. Programming Foundations: Beyond the Fundamentals (See picture in the dropdown menu "Pictures/video")
 </details>
 
 
