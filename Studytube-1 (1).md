@@ -11,7 +11,8 @@
 <details>
 <summary> Describtion</summary>
 <br>
-Today i spend time making the weekplan, i choose to make it in Github and will somehow integrate it in Powerpages this friday. I researched for different Linkedin certificates, that is relevant for this semester. I ended up finding one callled "Career Essentials in Software Development by Microsoft and LinkedIn" (link in the Reference dropdown). The certificate consists of three different courses (see picture in the dropdown menu)
+Today, I dedicated time to create a weekly plan, opting to use GitHub as my platform of choice. I plan to try to integrate it with Powerpages by this Friday. Additionally, I conducted research to identify relevant LinkedIn certificates for the current semester. Ultimately, I discovered a certification program titled "Career Essentials in Software Development by Microsoft and LinkedIn" (There is a link in the Reference section).![image](https://github.com/MathiasFonseca/Studytube/assets/92019457/b32a17d4-44e6-48b6-95db-5962319d1fc4)
+ (link in the Reference dropdown). The certificate consists of three different courses (see picture in the dropdown menu)
 </details>
 
 <details>
