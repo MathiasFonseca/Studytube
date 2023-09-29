@@ -15,6 +15,8 @@ Today, I dedicated time to create a weekly plan, opting to use GitHub as my plat
  (link in the Reference dropdown). The certificate consists of three different courses (see picture in the dropdown menu)
 </details>
 
+<img width="848" alt="Skærmbillede 2023-09-29 kl  15 30 53" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/6beec91e-b134-402a-9458-89a1c4cb0090">
+
 <details>
 <summary> Pictures/video</summary>
 <br>
