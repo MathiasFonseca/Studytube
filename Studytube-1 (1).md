@@ -34,6 +34,7 @@ Today, I dedicated time to create a weekly plan, opting to use GitHub as my plat
   
 </details>
 
+
 # Tuesday
 
 <details>
@@ -46,6 +47,7 @@ Today marked the inaugural day of the course, where I delved into the subject of
 
 The course encompassed fundamental concepts of the software development profession, including an exploration of various roles, programming languages, and practical coding exercises. To cap off the course, I completed an examination, the details of which can be found in the picture dropdown. Additionally, there will be code snippets from the exercises. While I found the course somewhat straightforward, I believe it was still beneficial in reinvigorating my coding skills.
 
+
 </details>
 
 <details>
@@ -55,6 +57,7 @@ The course encompassed fundamental concepts of the software development professi
 The instructor, Annyce Davis. Annyce Davis is an engineering leader, international conference speaker, and author.
 
 <img width="1146" alt="Skærmbillede 2023-09-29 kl  15 53 12" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/f96e2a88-d44b-4e71-9a10-db20e0209889">
+
 
 Bolean: 
 
@@ -145,13 +148,13 @@ Here's a basic example of how to use a module:
 
 Suppose you have a file named my_module.py containing the following code:
 
-# my_module.py
+my_module.py
 
 def greet(name):
     return f"Hello, {name}!"
 You can then import and use the greet function from this module in another Python script:
 
-# main.py
+main.py
 
 import my_module
 
@@ -174,12 +177,12 @@ Modules are a fundamental concept in Python, helping you structure your code and
 <details>
 <summary> Describtion</summary>
 <br>
-On day two of my certificate course i got reintroduced to different coding fundamentals such as, Basic statements and expressions, variables and data, int/str, conditions and making/ calling funtions. This course started out being very easy, but in the end was a little more challenging. The course consited of both theory and practice (exercises). The exercises was available for download on the course site. 
-The presenter of the course today was also, Annyce Davis, and the name of the course was: Programming Foundations: Fundamentals.
+On the second day of my certificate course, I underwent a refresher on essential coding fundamentals, including basic statements and expressions, variables and data types, integers and strings, conditions, and the creation and invocation of functions. The course initially began on a rather straightforward note but gradually grew more challenging as it progressed. It featured a balanced blend of theoretical content and practical exercises, with downloadable exercise materials available on the course website. 
+ 
+Annyce Davis continued to be the course presenter for the day, and the course was aptly titled "Programming Foundations: Fundamentals."
 
-![course 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/50d3bd99-907d-419a-a263-cd81356457d9)
+<img width="1038" alt="Skærmbillede 2023-09-30 kl  17 10 33" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/89b5b0d7-8f01-4fa9-ad6b-355fc975f47d">
 
-unlike yesterday, there where no "verification" or exam for finishing the course.
 
 </details>
 
@@ -187,17 +190,28 @@ unlike yesterday, there where no "verification" or exam for finishing the course
 <summary> Pictures/video</summary>
 <br>
 
-Exercise 1: playing with if/else statements
+Todays focus was if/else statements 
 
-<img width="380" alt="Skærmbillede 2023-09-27 113303" src="https://github.com/jona937d/4_semester_jona21m9/assets/92019351/0534a2c7-ffbe-48d1-b99a-3df29efd09fe">
+What is an if statement?
 
-Exercise 2: In this exercise i wanted to make it a bit more complicated. In the original, any answear other than "yes" would result in the answer "Oh no! That makes me sad!". so i "stored" different answers in lists and added an option for the program, if none of the "elements" where typed ("thats not an answer").
+Notes: An if statement is like making a decision in your code. Imagine you're choosing between two paths in a maze. If you take the left path (if something is true), you'll do one thing, and if you take the right path (if something is false), you'll do something else.
 
-<img width="626" alt="Skærmbillede 2023-09-27 102404" src="https://github.com/jona937d/4_semester_jona21m9/assets/92019351/684951be-5d78-411a-a209-572d5bb64a65">
+Basic Syntax:
 
-Exercise 3: In this exercise i had to make a funtion and call it 3 different times. my solution compared to the one from the course what a bit more complicated, but it worked.
+In Python, we write if statements like this:
 
-![exercise 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/69a6a439-7afa-47ac-b1dd-d08e1c014f1a)
+<img width="675" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/71945d7c-24a3-437d-a4d8-cebf5520cab5">
+
+You use if followed by a condition (like checking if a number is greater than another) and then a colon. The indented code under it runs only if the condition is true.
+
+What is an else statement?
+
+Now, what if there's a different action you want to take if the condition is false? That's where else comes in. It's like a backup plan.
+
+Basic Syntax with else:
+
+<img width="552" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/6eb636a5-605f-4560-8c3c-1ed00a1648ca">
+
 
 </details>
 
