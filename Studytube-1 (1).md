@@ -354,7 +354,9 @@ This demonstrates how debugging involves identifying and fixing issues in the co
 <details>
 <summary> Reference</summary>
 <br>
-indsæt link som reference
+ 
+https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?contextUrn=urn%3Ali%3AlyndaLearningPath%3A62f55081498ea51c77208c51&resume=false
+ 
 </details>
 
 # Friday
@@ -362,17 +364,43 @@ indsæt link som reference
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+ 
+Today marked the culmination of my course as I confidently walked into the examination hall for the final test. To my delight, I emerged victorious, achieving a commendable score of 80%. The examination, though more challenging than the smaller quizzes and assessments we encountered during the course, was well within my grasp.
+
+Within the exam, I encountered a diverse range of questions, each presenting its unique set of challenges. Some questions tasked me with identifying errors in code snippets, and I adeptly pinpointed and corrected these issues. Meanwhile, other questions presented code examples, and my deep understanding of programming concepts allowed me to accurately predict the correct output.
+
+One notable aspect that added complexity to the exam was the inclusion of questions related to programming languages beyond our primary focus in the course. Ruby, Java, JavaScript, and C++ made appearances, but my solid foundation in programming principles enabled me to tackle these questions with confidence. I navigated through these different languages, showcasing my adaptability and versatility as a programmer.
+
+In retrospect, this exam was a testament to my growth and proficiency in programming. It highlighted my ability to apply my skills across various programming paradigms and languages. Achieving an 80% score reaffirms my dedication to becoming a more proficient and versatile programmer in the future, setting the stage for further success in my programming journey.
+
+
 </details>
 
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+
+<img width="777" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/0d8fafd0-eea7-45d7-af69-cb3866bf9978">
+
 </details>
 
 <details>
-<summary> Reference</summary>
+<summary> Reflection on Deep Dive week</summary>
 <br>
-indsæt link som reference
+
+This course has been an incredibly educational and enriching experience for me. It provided a valuable opportunity to delve into coding, something I had been meaning to do for a while. While I already had a grasp of many fundamental concepts, the course allowed me to revisit and reinforce my existing knowledge through hands-on practice.
+
+Undoubtedly, failing the test twice was disappointing and made this week feel like a bit of a setback. However, I see this as a valuable learning experience. It has become evident to me that to excel in the exam, I need to put in more effort, not only by honing my skills in Python but also by acquiring a solid foundation in the fundamentals of other programming languages.
+
+In addition to my coding journey, this week has also seen improvements in my writing skills in Markdown, which is a valuable tool for documentation, and my familiarity with GitHub. These skills are invaluable in the world of programming and development, and I'm pleased to have enhanced them during this course.
+
+In sum, despite the challenges and setbacks, this course has been a stepping stone in my pursuit of becoming a more proficient programmer. It has not only refreshed my existing knowledge but also opened doors to new skills and tools that will undoubtedly benefit me in my future endeavors in the world of coding and development.
+
+# Weekplan
+Having a week plan in place proved to be immensely beneficial for me during this course. I successfully executed the tasks I had outlined for each day, with only minor adjustments to the daily timeframes. This structured approach was instrumental in helping me maintain focus, immerse myself deeply in the course materials, and stay on track throughout the week.
+
+The week plan served as a guiding framework that not only helped me prioritize and allocate time efficiently but also ensured that I could fully engage with the course content. It provided a sense of organization and discipline, enabling me to make the most of my study time and achieve my goals effectively.
+
+In hindsight, I can confidently say that the week plan was a key contributor to my success during this period. It reinforced the importance of planning and time management in the learning process, a lesson that I will undoubtedly carry forward in my future endeavors.
+
 </details>
