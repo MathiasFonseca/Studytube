@@ -4,7 +4,8 @@
 |-------------------|------------------|------------------|-------------------|-------------------|-------------------|
 | 09:00 - 12:00|Make weekplan in github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|Set myself up to take the exam / Take the final course exam
 | 12:00 - 12:30| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
-| 12:30 - 14:00|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make Studytube in Github done|
+| 12:30 - 14:00|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make notes in my Studytube|Make Studytube in Github done
+Upload file to Wiseflow|
 
 # Monday
 
@@ -396,7 +397,7 @@ In addition to my coding journey, this week has also seen improvements in my wri
 
 In sum, despite the challenges and setbacks, this course has been a stepping stone in my pursuit of becoming a more proficient programmer. It has not only refreshed my existing knowledge but also opened doors to new skills and tools that will undoubtedly benefit me in my future endeavors in the world of coding and development.
 
-# Weekplan
+# Week plan
 Having a week plan in place proved to be immensely beneficial for me during this course. I successfully executed the tasks I had outlined for each day, with only minor adjustments to the daily timeframes. This structured approach was instrumental in helping me maintain focus, immerse myself deeply in the course materials, and stay on track throughout the week.
 
 The week plan served as a guiding framework that not only helped me prioritize and allocate time efficiently but also ensured that I could fully engage with the course content. It provided a sense of organization and discipline, enabling me to make the most of my study time and achieve my goals effectively.
