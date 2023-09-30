@@ -257,7 +257,98 @@ In conclusion, while this course presented its challenges, I am pleased to repor
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+
+Creating a simple dictionary in Python is quite straightforward. A dictionary is a collection of key-value pairs, where each key is associated with a value. Here's how you can create a dictionary and print its values:
+
+<img width="384" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/4275134d-6d59-4b30-8600-edf9fd354b7c">
+
+In this example:
+
+We create a dictionary named my_dict with three key-value pairs.
+The keys are strings ("name," "age," and "city"), and the values associated with each key are also of various types (a string, an integer, and another string).
+To access the values in the dictionary, you use square brackets [] with the key as the index. For example, my_dict["name"] accesses the value associated with the key "name," which is "John."
+
+When you run this code, it will print the values associated with each key in the dictionary:
+
+<img width="218" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/4fe4d509-2cdb-4b70-97ed-104bab774fb3">
+
+You can also modify the values in a dictionary or add new key-value pairs as needed. Dictionaries are versatile and widely used in Python for various data storage and retrieval tasks.
+
+A "while loop" in Python repeatedly executes a block of code as long as a given condition remains true. Indentation is used to define the scope of the code within the loop. The loop continues until the condition evaluates to False. Avoid creating infinite loops.
+
+Example:
+
+<img width="234" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/ceae9fee-56f5-4fe5-b6c4-047f253984d1">
+
+In this example, the loop prints values from 0 to 4 because it runs as long as count is less than 5.
+
+In Python, you can use a "for loop" to iterate through elements in a list and perform an action on each element.
+
+Example:
+
+<img width="390" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/2eae7cd4-cc75-4ec4-923d-0c7873786fb8">
+
+In this example, the "for loop" iterates through the fruits list and prints each fruit one by one.
+
+To import an existing module from another file in Python, you can use the import statement. Here's a brief explanation with an example:
+
+Suppose you have a Python file named my_module.py with the following content:
+
+
+<img width="348" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/9db3ae7f-37b8-4797-a1ad-2904e6d8b1cb">
+
+Now, you want to import and use the greet function from my_module.py in another file, say main.py:
+
+<img width="414" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/2b9e93b4-43f7-42b8-a8ae-f892fa70196b">
+
+In this example:
+
+We use the import statement to import the my_module module into the main.py file.
+
+After importing, you can access functions and variables defined in my_module using the module_name.function_name syntax. Here, we call the greet function from my_module and store its result in the message variable.
+
+Finally, we print the message variable to display the greeting.
+
+When you run main.py, it will import my_module.py, call the greet function, and print the greeting message:
+
+
+<img width="177" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/ef345028-02c5-44ee-8e1e-08fa4a13dafe">
+
+This is how you can import and use functions and variables from one Python file in another using the import statement.
+
+
+Certainly! Debugging is an essential skill in programming, where you identify and fix issues in your code. Let's walk through an example where we have a buggy Python code snippet and fix it:
+
+Original buggy code:
+
+<img width="604" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/59190e01-d1c9-477c-b9f3-da0a348747d3">
+
+The issues in the original code are as follows:
+
+The range function should include 10 if we want to find the sum of even numbers from 1 to 10.
+The loop condition should be for i in range(1, 11): to include 10.
+The loop is summing odd numbers instead of even numbers because of the incorrect if condition.
+
+Here's the corrected code:
+
+<img width="565" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/26efe7c4-e0d8-464e-a002-5efe861c9d8e">
+
+In this corrected code:
+
+We've changed the range to range(1, 11) to include the number 10 in the iteration.
+
+The if condition i % 2 == 0 checks if the number is even before adding it to sum_even.
+
+Now, the code will correctly calculate and print the sum of even numbers from 1 to 10.
+
+When you run the corrected code, it will output:
+
+
+<img width="265" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/577fdd60-fa7e-43da-998a-8ca595063f16">
+
+This demonstrates how debugging involves identifying and fixing issues in the code to achieve the desired functionality.
+
+
 </details>
 
 <details>
