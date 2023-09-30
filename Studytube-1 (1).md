@@ -212,6 +212,16 @@ Basic Syntax with else:
 
 <img width="552" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/6eb636a5-605f-4560-8c3c-1ed00a1648ca">
 
+You can think of if as "Do this if it's true," and else as "Do this if it's not true."
+
+Putting it Together:
+
+Here's an example:
+
+<img width="540" alt="image" src="https://github.com/MathiasFonseca/Studytube/assets/92019457/748d2a1c-8d78-4d5f-9823-471ad9ecd38e">
+
+In this case, if the age is 18 or older (the condition is true), it prints "You are an adult." If not, it prints "You are not an adult."
+
 
 </details>
 
@@ -226,7 +236,22 @@ https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fun
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+
+![image](https://github.com/MathiasFonseca/Studytube/assets/92019457/214d8233-bc84-4a4e-9030-99a7723f232b)
+
+On the third day of the program, we had the privilege of being instructed by none other than Sasha Vodnik, who holds the esteemed position of Principal Technical Course Developer at DocuSign. The focal point of the session revolved around the theme of "Programming Foundations: Exploring Beyond the Basics."
+
+
+This particular course presented a somewhat elevated level of complexity, requiring a bit more effort and concentration on my part. However, I found that with diligence and a focused approach, I was able to not only manage the challenges but also gain a comprehensive understanding of the content.
+
+What set this course apart was the depth to which it explored various programming concepts. It took us beyond the foundational knowledge provided in the preceding two courses and introduced us to a more advanced set of methods and theories. Despite the increased complexity, I noticed that the strong foundation I had built from the earlier courses played a crucial role in facilitating my progress. It was evident that those fundamental concepts still had a significant impact on my ability to grasp the more advanced material and apply it effectively when working on the exercises.
+
+Throughout the course, we delved into a diverse range of topics. These included constructing and effectively utilizing collections, mastering iterations and loops, harnessing the power of external code through functions, manipulating strings with finesse, honing debugging skills, and immersing ourselves in object-oriented programming principles.
+
+What greatly contributed to my understanding of these concepts was Sasha's teaching approach. She had a knack for elucidating complex theoretical ideas by using relatable, everyday, and no-code visual examples. This teaching style made the content accessible and allowed me to bridge the gap between theory and practical application with confidence.
+
+In conclusion, while this course presented its challenges, I am pleased to report that it was a rewarding experience. It pushed me to expand my programming horizons, building upon the solid foundation laid in the earlier courses. The diverse array of topics covered and Sasha's effective teaching methods left me with a deeper understanding of programming fundamentals beyond the basics.
+
 </details>
 
 <details>
